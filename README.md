@@ -22,7 +22,9 @@ Assignment 1
 
 8.Custom Exception Handling for Bank Withdrawal
 
+
 Assignment 2
+
 1.Prime Number Finder using Multithreading
 
 2.Producer–Consumer Problem using Synchronization
