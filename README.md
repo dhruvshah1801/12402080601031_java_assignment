@@ -1,11 +1,16 @@
 # 12402080601031_java_assignment
 Student Name: Shah Dhruv
+
 Enrollment Number: 12402080601031
+
 Course: Java Programming
+
 Semester: 4
 
 Assignment Structure
+
 Assignment 1
+
 1.Array and String Operations using Classes and Objects
 
 2.Matrix Class with Constructors, Transpose and Multiplication
